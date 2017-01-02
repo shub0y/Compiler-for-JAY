@@ -1,0 +1,13 @@
+void main()
+{
+int i, j;
+i= 10;
+if(i>18)
+{
+i= 8;
+}
+else{
+i= 10;
+}
+
+}
